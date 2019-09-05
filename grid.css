@@ -1,6 +1,30 @@
+body {
+  padding-top: 10px;
+  padding-left: 35px;
+  font-family: "Trebuchet MS", serif;
+}
+
+.wordstuffs {
+  max-width: 750px;
+}
+
+.jam {
+  color: #4A0CDC;
+}
+
+.ityours {
+  color: #1CC1D4;
+}
+
+.yass {
+  font-family: "Comic Sans MS", serif;
+  color: #C128B7;
+}
+
 * {
     box-sizing: border-box;
 }
+
 
 @media only screen and (max-width: 850px) {
   /* For mobile phones: */
