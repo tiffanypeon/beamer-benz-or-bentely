@@ -21,6 +21,10 @@ body {
   color: #C128B7;
 }
 
+.no-foto {
+  max-width: 750px;
+}
+
 * {
     box-sizing: border-box;
 }
