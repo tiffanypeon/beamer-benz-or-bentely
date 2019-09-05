@@ -22,7 +22,7 @@ body {
 }
 
 .no-foto {
-  width: 750px;
+  max-width: 750px;
 }
 
 * {
