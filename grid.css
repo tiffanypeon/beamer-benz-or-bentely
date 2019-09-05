@@ -21,6 +21,10 @@ body {
   color: #C128B7;
 }
 
+.itus {
+  width: 750px;
+}
+
 * {
     box-sizing: border-box;
 }
